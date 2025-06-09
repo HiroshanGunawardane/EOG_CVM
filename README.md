@@ -1,4 +1,4 @@
-#**A Fusion Algorithm Based on a Constant Velocity Model for Improving the Measurement of Saccade Parameters with Electrooculography**
+# A Fusion Algorithm Based on a Constant Velocity Model for Improving the Measurement of Saccade Parameters with Electrooculography
 
 This repository contains the implementation of the algorithm proposed in the paper:
 
@@ -11,11 +11,11 @@ This repository contains the implementation of the algorithm proposed in the pap
   year={2024},
   publisher={MDPI}
 }
-## 🧠 Overview
+## Overview
 
 This project provides a robust algorithm to improve the accuracy of saccade parameter measurement using electrooculography (EOG) signals. The method fuses two estimation approaches — a regression-based technique and a velocity-threshold-based method — using a constant velocity motion model, yielding improved estimates of key saccade parameters such as amplitude, velocity, and duration.
 
-## 📋 Features
+## Features
 
 - Implements a fusion algorithm based on a **constant velocity motion model**
 - Enhances the **accuracy and reliability** of saccade detection using EOG
